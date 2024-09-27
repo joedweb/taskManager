@@ -78,6 +78,3 @@ You can use Postman, cURL, or any other REST client to test the API endpoints.
 - **Data Persistence**: All data is stored in memory. Restarting the application will reset the data.
 - **Date Fields**: The `createDate` is set automatically when a task is created. The `completedDate` is set when a task’s completed status changes to true.
 
-### Contact
-
-If you have any questions or need further assistance, please feel free to reach out.
